@@ -4,7 +4,7 @@
 
 Figgy Stacked is a mobile-first prototype that replaces the "one person fronts the bill and chases everyone else for weeks" ritual with a live group payment session. A group is created for a bill, members join by code, and each person approves their split in real time. Only once *every* member has approved does the app generate a one-time-use virtual card to settle the transaction.
 
-Built as the final project for Northeastern's Full Stack Software Engineering course by a team of five.
+Built as the final project for Northwestern's Full Stack Software Engineering course by a team of five.
 
 ---
 
